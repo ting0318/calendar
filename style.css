@@ -48,7 +48,7 @@ li {
 .btn > a {
 	color:white;
 }
-.btn  span {
+.btn a > span {
 	font-size: 30px;
 	font-weight: 600;
 	text-align: center;
